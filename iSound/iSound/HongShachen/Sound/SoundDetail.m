@@ -412,6 +412,7 @@ static SoundDetail *soundDetail = nil;
     if (num < 60) return [NSString stringWithFormat:@"0:%02d", num];
     
     return	[NSString stringWithFormat:@"%d:%02d", min, secs];
+    // change my life
 }
 
 #pragma mark - xib

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A4A9BFF217F5ACD700AE0258"
-               BuildableName = "&#21501;&#21501;&#21939;&#21939;.app"
+               BuildableName = "&#21553;&#20102;.app"
                BlueprintName = "iSound"
                ReferencedContainer = "container:iSound.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4A9BFF217F5ACD700AE0258"
-            BuildableName = "&#21501;&#21501;&#21939;&#21939;.app"
+            BuildableName = "&#21553;&#20102;.app"
             BlueprintName = "iSound"
             ReferencedContainer = "container:iSound.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4A9BFF217F5ACD700AE0258"
-            BuildableName = "&#21501;&#21501;&#21939;&#21939;.app"
+            BuildableName = "&#21553;&#20102;.app"
             BlueprintName = "iSound"
             ReferencedContainer = "container:iSound.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A4A9BFF217F5ACD700AE0258"
-            BuildableName = "&#21501;&#21501;&#21939;&#21939;.app"
+            BuildableName = "&#21553;&#20102;.app"
             BlueprintName = "iSound"
             ReferencedContainer = "container:iSound.xcodeproj">
          </BuildableReference>
